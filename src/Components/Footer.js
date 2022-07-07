@@ -49,8 +49,6 @@ function Footer() {
                             <ul className="footer-contact-block__list">
                                 <li><a href="https://twitter.com/tylerrkvo">Twitter</a></li>
                                 <li><a href="https://instagram.com/tylerr.vo">Instagram</a></li>
-                                <li><a href="#0">Facebook</a></li>
-                                <li><a href="#0">Snapchat</a></li>
                             </ul>
                         </div> 
                     </div>
