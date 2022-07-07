@@ -18,7 +18,7 @@ function Footer() {
                     </div>
 
                     <div className="footer-email-us">
-                        <a href="mailto:#0" className="btn btn--primary h-full-width">Let's Talk</a>
+                        <a href="mailto:tyler.k.vo@gmail.com" className="btn btn--primary h-full-width">Let's Talk</a>
                     </div>
                 </div>
 
@@ -29,8 +29,8 @@ function Footer() {
                                 Email
                             </h5>
                             <p className="footer-contact-block__content">
-                                <a href="mailto:#0">tyler.k.vo@gmail.com</a> <br />
-                                <a href="mailto:#0">tkv9zd@virginia.edu</a>
+                                <a href="mailto:tyler.k.vo@gmail.com">tyler.k.vo@gmail.com</a> <br />
+                                <a href="mailto:tkv9zd@virginia.edu">tkv9zd@virginia.edu</a>
                             </p>
                         </div> 
                         <div className="footer-contact-block" data-aos="fade-up">
