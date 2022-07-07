@@ -5,15 +5,12 @@ function About() {
         <section id="about" className="s-about target-section">
 
             <div className="s-about__section s-about__section--profile">
-
-                <div className="right-vert-line"></div>
-
                 <div className="row">
                     <div className="column large-6 medium-8 tab-full">
 
                         <div className="section-intro" data-num="01" data-aos="fade-up">
                             <h3 className="subhead">About Me</h3>
-                            <h1 className="display-1">I'm the kind of person who isn't afraid of challenges.</h1>
+                            <h1 className="display-1">I'd climb any branch or tree to achieve my goal.</h1>
                         </div>
 
                         <div className="profile-pic" data-aos="fade-up">
@@ -23,19 +20,19 @@ function About() {
                         <h3 data-aos="fade-up">Profile</h3>
 
                         <p data-aos="fade-up">
-                        Rising third-year student at the University of Virginia interested in studying Commerce, Computer Science, and Data Science. Looking forward to exploring different career paths and opportunities.
+                        Rising third-year student at the University of Virginia interested in studying Commerce, Computer Science, and Data Science. I have strong interest in consulting and tech roles.
                         </p>
 
                     </div>
                 </div>
                 
             </div> 
-
+    
             <div className="s-about__section">
 
                 <div className="row">
                     <div className="column">
-                        <h3 data-aos="fade-up">Career</h3>
+                        <h3 data-aos="fade-up">Experience</h3>
                     </div>
                 </div>
 
@@ -116,7 +113,88 @@ function About() {
                 </div> 
 
             </div> 
+            <div className="s-about__section">
 
+                <div className="row">
+                    <div className="column">
+                        <h3 data-aos="fade-up">Education</h3>
+                    </div>
+                </div>
+
+                <div className="row block-large-1-2 block-900-full work-positions">
+
+                    <div className="column" data-aos="fade-up">
+                        <div className="position">
+                            <div className="position__header">
+                                <h6>
+                                    <span className="position__co">UVA McIntire School of Commerce</span>
+                                    <span className="position__pos">Bachelor of Science - BS, Commerce</span>
+                                </h6>
+                                <div className="position__timeframe">
+                                    August 2022 - May 2024
+                                </div>
+                            </div>
+
+                            <p>
+                            Activities and societies: C.A.S.H at Madison House, Virginia Case Club
+                            </p>
+                        </div>
+                    </div> 
+                    <div className="column" data-aos="fade-up">
+                        <div className="position">
+                            <div className="position__header">
+                                <h6>
+                                    <span className="position__co">University of Virginia</span>
+                                    <span className="position__pos">Bachelor of Arts - BA, Computer Science</span>
+                                </h6>
+                                <div className="position__timeframe">
+                                    September 2020 - May 2024
+                                </div>
+                            </div>
+
+                            <p>
+                            Activities and societies: Vietnamese Student Association, IM Sports, VASST, Greek Life (Social Chair)
+                            </p>
+                        </div>
+                    </div> 
+                    <div className="column" data-aos="fade-up">
+                        <div className="position">
+                            <div className="position__header">
+                                <h6>
+                                    <span className="position__co">Mechville High School</span>
+                                    <span className="position__pos">Advanced Studies Diploma</span>
+                                </h6>
+                                <div className="position__timeframe">
+                                    September 2016 - June 2020
+                                </div>
+                            </div>
+
+                            <p>
+                            Activities and societies: Lacrosse (Co-Captain), Marching Band (Drum Major), National Honor Society, National Science Honor Society, French Honor Society, Tri-M Honor Society, Model UN, Key Club
+                            </p>
+                        </div>
+                    </div> 
+                    <div className="column" data-aos="fade-up">
+                        <div className="position">
+                            <div className="position__header">
+                                <h6>
+                                    <span className="position__co">Summer Residential Governors School</span>
+                                    <span className="position__pos">Math, Science, & Technology</span>
+                                </h6>
+                                <div className="position__timeframe">
+                                    June 2019 - July 2019
+                                </div>
+                            </div>
+
+                            <p>
+                            Dirt Under the Fingernails Mathematics: Systems Which Evolve Over Time, Combinatorial Game Theory, Number Theory, Graph Theory, and Cellular Automaton.
+                            </p>
+                        </div>
+                    </div> 
+
+                </div> 
+
+            </div> 
         </section> 
   )
 }

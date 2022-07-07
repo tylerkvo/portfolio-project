@@ -2,9 +2,9 @@ import React from 'react'
 
 function Footer() {
   return (
+    <section id="contact">
     <footer className="s-footer h-dark-bg">
             
-            <div className="right-vert-line"></div>
 
             <div className="row s-footer__main">
                 <div className="column large-6">
@@ -13,7 +13,7 @@ function Footer() {
 
                         <h1 className="display-1">
                         Have an opportunity that I would be a perfect fit for?
-                        Let's turn that idea into reality. Shoot me a message.
+                        Let's turn that idea into reality. 
                         </h1>
                     </div>
 
@@ -47,9 +47,9 @@ function Footer() {
                                 Social
                             </h5>
                             <ul className="footer-contact-block__list">
-                                <li><a href="#0">Twitter</a></li>
-                                <li><a href="#0">Instagram</a></li>
-                                <li><a href="#0">BeReal</a></li>
+                                <li><a href="https://twitter.com/tylerrkvo">Twitter</a></li>
+                                <li><a href="https://instagram.com/tylerr.vo">Instagram</a></li>
+                                <li><a href="#0">Facebook</a></li>
                                 <li><a href="#0">Snapchat</a></li>
                             </ul>
                         </div> 
@@ -71,6 +71,7 @@ function Footer() {
             </div>
 
         </footer> 
+        </section>
   )
 }
 

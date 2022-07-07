@@ -11,8 +11,6 @@ function Home() {
                 <h1>
                 Hello, I'm Tyler Vo <br/>
                 Welcome to my Portfolio <br/>
-                <br/>
-                <br/>
                 
                 </h1>
 
@@ -22,12 +20,6 @@ function Home() {
                     </li>
                     <li>
                         <a href="https://github.com/tylerkvo" title="">GitHub</a>
-                    </li>
-                    <li>
-                        <a href="https://instagram.com/tylerr.vo" title="">Instagram</a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/tylerrkvo" title="">Twitter</a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/channel/UCeAJBlC7PHehR6dZ1hXi0qw" title="">Youtube</a>
